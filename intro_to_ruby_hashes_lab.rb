@@ -7,6 +7,8 @@ return emty_hash
 end
 
 def actor
+  
+  
 
 end
 
