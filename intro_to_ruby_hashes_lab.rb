@@ -1,6 +1,6 @@
 def new_hash
 
-
+emty_hash = {}
 
 
 end
