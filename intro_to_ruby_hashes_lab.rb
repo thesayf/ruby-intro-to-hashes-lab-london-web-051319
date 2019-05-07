@@ -8,7 +8,7 @@ end
 
 def actor
   
-  rock_
+  actor = {name: ""}
 
 end
 
