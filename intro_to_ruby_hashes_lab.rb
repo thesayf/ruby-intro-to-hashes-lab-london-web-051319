@@ -2,6 +2,7 @@ def new_hash
 
 emty_hash = {}
 
+return emty_hash 
 
 end
 
